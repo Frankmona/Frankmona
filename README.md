@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frankmona
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Cloud development
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
